@@ -1,0 +1,103 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.half-width{
+    width: 40%;
+    height: 30%;
+    float:left;
+    margin-left: 2%;
+padding-left: 2%;
+text-align: justify;
+}
+
+.my-Visited-place{
+    float: left;;
+    margin-left: 10%;
+box-shadow: 10px 10px 50px gray;
+border-radius: 10px;
+
+}
+
+.Kaaba-img{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+padding-left: 4%;
+}
+
+.Madina-img{
+    width: 50%;
+    float: left;;
+    margin-left: 2%;
+padding-left: 2%;
+
+}
+
+
+.Makka-background{
+    background-image: url("images/Makka-background.png");
+    background-repeat: no-repeat;
+    height: 600px; 
+}
+
+.Madina-background{
+    background-image: url("images/Madina-bg.png");
+    background-repeat: no-repeat; 
+    background-position: right; 
+    height: 600px; 
+}
+
+.Visited-background{
+    background-image: url("images/Visited-bg.png");
+    background-repeat: no-repeat; 
+    background-position: right; 
+    height: 400px; 
+}
+
+.contact-background{
+    background-image: url("images/contact-bg.png");
+    background-repeat: no-repeat; 
+    background-position: right; 
+    height: 300px; 
+}
+
+
+.link-button-text{
+    text-decoration: none;
+    color: black;
+    font-weight: bold; 
+}
+
+.link-button{
+    background-image: linear-gradient(45deg, rgb(235, 80, 214), rgb(100, 5, 88));
+    padding: 6px 20px;
+    border-radius: 7px;
+}
+
+
+
+
+.Contact-info{
+
+    width: 200px;
+    margin-right: 42%;
+    margin-left: 42%;
+    box-shadow: 3px 3px 5px gray;
+border-radius: 10px;
+height: 50px;
+background-image: linear-gradient(45deg, rgb(235, 80, 214), rgb(100, 5, 88));
+text-align: center;
+}
+
+#Name{
+    font-weight: bolder; 
+   
+}
+
+
